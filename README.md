@@ -1,7 +1,7 @@
 # Don't Forget
 <!-- ## Follow [my tiktok account](https://www.tiktok.com/@try_catch_) -->
 
-# [Kunjungi Webnya di ](https://wahyu-sapurata.web.app/)
+# [Klik ini untuk mengunjungi web](https://wahyu-sapurata.web.app/)
 
 ![Preview](/public/preview.png)
 
