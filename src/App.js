@@ -49,7 +49,7 @@ function App() {
                 <span className="higthlight">Html</span>
                 <span className="higthlight">Css</span>
                 <span className="higthlight">Mysql</span>
-                <span className="higthlight">ReactJs</span>
+                <span className="higthlight">React Js</span>
                 <span className="higthlight">NodeJs</span>
                 <span className="higthlight">Github</span>
                 <span className="higthlight">Git</span>
@@ -95,20 +95,10 @@ function App() {
             <a
               className="btn_action bg_content"
               target="_blank"
-              href="https://github.com/AnasMubarakYasin"
-            >
-              <AiFillGithub />
-              <span>Github 1</span>
-            </a>
-          </div>
-          <div className="mt-16">
-            <a
-              className="btn_action bg_content"
-              target="_blank"
               href="https://github.com/Wahyusapurata"
             >
               <AiFillGithub />
-              <span>Github 2</span>
+              <span>Github</span>
             </a>
           </div>
           <div>
