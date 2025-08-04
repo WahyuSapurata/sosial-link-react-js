@@ -66,8 +66,8 @@ function App() {
               </TextLoop>
             </div>
             <div className="bg_content rd_12 p_8 mt-16">
-              Follow Saya Pada <br />
-              Sosial Media di Bawah
+              Follow Me <br />
+              on Social Media Below
             </div>
           </div>
           <div className="mt-16">
@@ -110,12 +110,7 @@ function App() {
               <span>LinkedIn</span>
             </a>
           </div>
-          <div>
-            <div className="bg_content bg-style rd_12 p_8 mt-16">
-              My Project In Reository Github
-            </div>
-            <GithubProjects />
-          </div>
+          <GithubProjects username="WahyuSapurata" />
           <div className="bg_content bg-style rd_12 p_8 mt-16">Tools</div>
           <div className="svg-image">
             <img src="/icon/html.svg" alt="html"></img>
